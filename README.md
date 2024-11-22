@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CaitAtProTalent
-- 👀 I’m a Talent Acqusition Specialist
-- 🌱 I’m currently on the lookout for Tech Talent 
-- ⚡ Fun fact: I love cheesecake!
+- 👋 Hi, I’m @CaitCddes
+- 👀 Desire to learn more about the universe of coding 
+- ⚡ Fun fact: I love cheesecake
